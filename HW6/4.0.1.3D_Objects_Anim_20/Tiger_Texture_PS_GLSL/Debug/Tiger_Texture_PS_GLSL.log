@@ -1,0 +1,9 @@
+﻿  LoadShaders.cpp
+C:\Users\hj\Desktop\과제 정리\20-1 기초컴퓨터그래픽스\HW6_S20171294\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Shaders\LoadShaders.cpp(11,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tiger_Texture_PS_GLSL.cpp
+C:\usr\local\OpenGL\include\FreeImage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\hj\Desktop\과제 정리\20-1 기초컴퓨터그래픽스\HW6_S20171294\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\my_geom_objects.h(655,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\hj\Desktop\과제 정리\20-1 기초컴퓨터그래픽스\HW6_S20171294\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\my_geom_objects.h(730,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\hj\Desktop\과제 정리\20-1 기초컴퓨터그래픽스\HW6_S20171294\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\my_geom_objects.h(804,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  Tiger_Texture_PS_GLSL.vcxproj -> C:\Users\hj\Desktop\과제 정리\20-1 기초컴퓨터그래픽스\HW6_S20171294\4.0.1.3D_Objects_Anim_20\Debug\Tiger_Texture_PS_GLSL.exe
